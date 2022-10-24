@@ -1,0 +1,1 @@
+cat nacar | tr " " "\n" > salida.csv
